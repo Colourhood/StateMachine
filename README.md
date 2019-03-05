@@ -1,2 +1,2 @@
 # StateMachine Overview
-![alt text] (/Example/Assets/OverviewDiagram.jpg)
+![](/Example/Assets/OverviewDiagram.jpg)

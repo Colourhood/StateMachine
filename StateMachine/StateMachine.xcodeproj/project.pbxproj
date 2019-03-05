@@ -81,6 +81,7 @@
 				548C0BDA222E3C69000475E9 /* State */,
 			);
 			name = Souce;
+			path = Source;
 			sourceTree = "<group>";
 		};
 		548C0BDA222E3C69000475E9 /* State */ = {
@@ -99,7 +100,7 @@
 				548C0BDC222E3C91000475E9 /* BaseMachine.swift */,
 				548C0BDE222E3CB1000475E9 /* Machine.swift */,
 			);
-			name = StateMachine;
+			path = StateMachine;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
